@@ -15,3 +15,8 @@
 ###scores.csv
 ####Test.Short.Name
 ####Test.Score.Value
+
+
+  Both Data Files need to be in a long format.  Students will appear on multiple rows if they are in multiple AP classes or have taken multiple AP Tests
+  
+  Feel free to email if you need assistance or have questions about any of the code.  The most important steps is making sure the course names match the Test.Short.Name and that the data is in a Long format.
